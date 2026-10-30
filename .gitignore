@@ -1,0 +1,15 @@
+# Build outputs
+Debug/
+Release/
+
+# Compiled files
+*.o
+*.d
+*.elf
+*.map
+*.list
+*.su
+
+# Temporary files
+*.tmp
+*.bak
